@@ -1,0 +1,32 @@
+.container {
+	box-sizing: border-box;
+	width: 100%;
+	border: 2px solid black;
+	margin: auto;
+	margin-top: 5px;
+}
+.heading {
+	border: 2px solid blue;
+}
+
+.sectionContainer {
+	border: 2px solid red;
+	display: flex;
+	flex-direction: row;
+	border: 2px solid red;
+	display: flex;
+	height: auto;
+	flex-direction: row;
+}
+.leftNavContainer {
+	border: 2px solid red;
+    margin: 6px;
+    padding: 10px;
+    width: 15%;
+}
+.rightContainer {
+	border: 2px solid green;
+	margin: 6px;
+	padding: 10px;
+	width: 100%;
+}

@@ -1,0 +1,26 @@
+.Packages{
+    background-color: rgb(117, 113, 113);
+    width: 100%;
+    height: auto;
+    /* overflow-y: scroll; */
+    /* margin: 100px 0px; */
+    border: 1px solid black;
+   
+}
+.UL{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-basis: 80%;
+    flex-wrap: wrap;
+    justify-content: normal;
+}
+.full{
+    background-color: rgb(117, 113, 113);
+}
+.image>img{
+    width: 250px;
+    height: 150px;
+    padding: 25px;
+
+}
